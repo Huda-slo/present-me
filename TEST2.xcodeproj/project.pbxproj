@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		102388602CA9464600DB2FC6 /* maha.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1023885F2CA9464600DB2FC6 /* maha.swift */; };
 		11AA73FA2CA94768001761FE /* reema.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AA73F92CA94768001761FE /* reema.swift */; };
+		86D9D0582CA9489A00F65AE1 /* arafat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D9D0572CA9489A00F65AE1 /* arafat.swift */; };
 		9EDEB0B22CA537F300E8FB64 /* TEST2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EDEB0B12CA537F300E8FB64 /* TEST2App.swift */; };
 		9EDEB0B42CA537F300E8FB64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EDEB0B32CA537F300E8FB64 /* ContentView.swift */; };
 		9EDEB0B62CA537F300E8FB64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EDEB0B52CA537F300E8FB64 /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 /* Begin PBXFileReference section */
 		1023885F2CA9464600DB2FC6 /* maha.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maha.swift; sourceTree = "<group>"; };
 		11AA73F92CA94768001761FE /* reema.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reema.swift; sourceTree = "<group>"; };
+		86D9D0572CA9489A00F65AE1 /* arafat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arafat.swift; sourceTree = "<group>"; };
 		9EDEB0AE2CA537F300E8FB64 /* TEST2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EDEB0B12CA537F300E8FB64 /* TEST2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST2App.swift; sourceTree = "<group>"; };
 		9EDEB0B32CA537F300E8FB64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				9EDEB0B12CA537F300E8FB64 /* TEST2App.swift */,
 				9EDEB0B32CA537F300E8FB64 /* ContentView.swift */,
 				11AA73F92CA94768001761FE /* reema.swift */,
+				86D9D0572CA9489A00F65AE1 /* arafat.swift */,
 				F2A6C89F2CA9416B00F314CA /* bayan.swift */,
 				1023885F2CA9464600DB2FC6 /* maha.swift */,
 				9EDEB0B52CA537F300E8FB64 /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86D9D0582CA9489A00F65AE1 /* arafat.swift in Sources */,
 				102388602CA9464600DB2FC6 /* maha.swift in Sources */,
 				9EDEB0B42CA537F300E8FB64 /* ContentView.swift in Sources */,
 				11AA73FA2CA94768001761FE /* reema.swift in Sources */,
