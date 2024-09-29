@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		102388602CA9464600DB2FC6 /* maha.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1023885F2CA9464600DB2FC6 /* maha.swift */; };
+		11AA73FA2CA94768001761FE /* reema.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AA73F92CA94768001761FE /* reema.swift */; };
 		9EDEB0B22CA537F300E8FB64 /* TEST2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EDEB0B12CA537F300E8FB64 /* TEST2App.swift */; };
 		9EDEB0B42CA537F300E8FB64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EDEB0B32CA537F300E8FB64 /* ContentView.swift */; };
 		9EDEB0B62CA537F300E8FB64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EDEB0B52CA537F300E8FB64 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1023885F2CA9464600DB2FC6 /* maha.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maha.swift; sourceTree = "<group>"; };
+		11AA73F92CA94768001761FE /* reema.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reema.swift; sourceTree = "<group>"; };
 		9EDEB0AE2CA537F300E8FB64 /* TEST2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EDEB0B12CA537F300E8FB64 /* TEST2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST2App.swift; sourceTree = "<group>"; };
 		9EDEB0B32CA537F300E8FB64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 			children = (
 				9EDEB0B12CA537F300E8FB64 /* TEST2App.swift */,
 				9EDEB0B32CA537F300E8FB64 /* ContentView.swift */,
+				11AA73F92CA94768001761FE /* reema.swift */,
 				F2A6C89F2CA9416B00F314CA /* bayan.swift */,
 				1023885F2CA9464600DB2FC6 /* maha.swift */,
 				9EDEB0B52CA537F300E8FB64 /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 			files = (
 				102388602CA9464600DB2FC6 /* maha.swift in Sources */,
 				9EDEB0B42CA537F300E8FB64 /* ContentView.swift in Sources */,
+				11AA73FA2CA94768001761FE /* reema.swift in Sources */,
 				9EDEB0B22CA537F300E8FB64 /* TEST2App.swift in Sources */,
 				F2A6C8A02CA9416B00F314CA /* bayan.swift in Sources */,
 			);
