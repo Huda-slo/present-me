@@ -26,7 +26,7 @@ struct bayan: View {
                     Text("Capital of Saudi Arabia")
                         .foregroundColor(.gray)
                         .multilineTextAlignment(.leading)
-                    
+                    //hello
                 }
                 Text("🇸🇦")
                     

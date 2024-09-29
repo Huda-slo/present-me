@@ -52,6 +52,7 @@
 		9EDEB0CC2CA537F300E8FB64 /* TEST2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST2UITests.swift; sourceTree = "<group>"; };
 		9EDEB0CE2CA537F300E8FB64 /* TEST2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST2UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F2A6C89F2CA9416B00F314CA /* bayan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bayan.swift; sourceTree = "<group>"; };
+		F2A6C8A12CA94C0500F314CA /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +108,7 @@
 				11AA73F92CA94768001761FE /* reema.swift */,
 				86D9D0572CA9489A00F65AE1 /* arafat.swift */,
 				F2A6C89F2CA9416B00F314CA /* bayan.swift */,
+				F2A6C8A12CA94C0500F314CA /* MyPlayground.playground */,
 				1023885F2CA9464600DB2FC6 /* maha.swift */,
 				9EDEB0B52CA537F300E8FB64 /* Assets.xcassets */,
 				9EDEB0B72CA537F300E8FB64 /* Preview Content */,
